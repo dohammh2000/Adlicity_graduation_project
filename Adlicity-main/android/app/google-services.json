@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320884749566",
+    "project_id": "adlicity-sherif",
+    "storage_bucket": "adlicity-sherif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320884749566:android:9a2ee99bf06151dbf821af",
+        "android_client_info": {
+          "package_name": "com.sherif.adlicity.adlicity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR0TWExwwpbg4Uiag9ILL5kx9g1zOoTuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
